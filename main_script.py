@@ -4,3 +4,8 @@ def say_hello():
 
 def func():
     print('good bye')
+
+def add(x, y):
+    print(x+y)
+
+print('hello github')
